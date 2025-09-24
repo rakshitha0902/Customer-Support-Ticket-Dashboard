@@ -1,0 +1,1 @@
+This project showcases a customer support ticket dashboard built using Tableau. It visualizes ticket volume, resolution rates, satisfaction trends, and peak activity periods, helping identify support bottlenecks and improve service efficiency.
